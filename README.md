@@ -6,7 +6,11 @@ Currently working on 📚 [2] Projects. Learning about 🌐 Web Development and 
 Has passion and hobby of learning too much as I read 📕 Books! I also used to draw a lot, like.. ALOT 🎨✨!
 I do Illustrations🖼️ and Character Design💁 as I am currently studying Computer Science @ 🏫University of Caloocan City📙!
 
-[![My Tech](https://skillicons.dev/icons?i=arduino,blender,c,cs,cpp,vercel,html,css,tailwind,js,react,vite,nextjs,nodejs,py,npm,java,mysql,mongodb,postgres,php,postman,eclipse,sublime,figma,replit,git,github,ai,ps&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,blender,c,cs,cpp,vercel,html,css,tailwind,js,react,vite,nextjs,nodejs,py,npm,java,mysql,mongodb,postgres,php,postman,eclipse,sublime,figma,replit,git,github,ai,ps&theme=dark" />
+  </a>
+</p>
 
 <!--
 **RensuGitHub/RensuGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
