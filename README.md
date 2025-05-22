@@ -36,7 +36,7 @@ I am currently studying Computer Science @ 🏫University of Caloocan City📙!
   
 | My Most Used PLs | Currently Learning |
 |:----------:|:----------:|
-| [![My Skills](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)   | [![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,blender,postgres)](https://skillicons.dev)   |
+| [![My Skills](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)   | [![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,blender,postgres)](https://skillicons.dev)   |
 | Dev Tools   | Creative Tools   |
 | [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,eclipse,git,github)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=ai,ps,xd,figma,blender)](https://skillicons.dev)   | 
 
